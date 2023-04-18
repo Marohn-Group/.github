@@ -1,2 +1,1 @@
-# .github
-John Marohn Group at Cornell University
+Marohn group github profile repository.
